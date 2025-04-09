@@ -167,4 +167,4 @@ python TradingViewMonitor.py
   <br>
   <br>
   <br>
-  (c) Lusticon, 2025
+  © Lusticon, 2025
