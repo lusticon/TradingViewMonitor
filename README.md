@@ -1,11 +1,11 @@
 # TradingView Monitor
 
-**[EN]** A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions). [Read Description...](#en-desc)
+🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions). ⬇️[Download](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Read Description...](#en-desc)
 
-**[RU]** Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) [Описание функционала...](#ru-desc)
+🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ⬇️[Скачать](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Описание функционала...](#ru-desc)
 
 <a name="ru-desc"></a>
-### Функционал:
+### 🔸 Функционал:
 **Наблюдаем за графиками, занимаясь своими делами. Кроме движения рынка отображается вся ваша разметка графика.**
 
 ![App Screenshot](https://i.ibb.co/zWrS3nvg/Untitled.gif)
@@ -24,20 +24,20 @@
     - Таймфрейм (Таймфрейм за которым следите)
 - Кнопка автообновления. Обновляет график раз в минуту. Нужна для обхода появления всплывающего окна (если не авторизованы)
 
-### Важно:
+### ‼️ Важно:
 
 В мониторе можно авторизоваться только через почту, другие виды авторизации не работают. Если ваш основной аккаунт за которым вы следите создан через другие средства авторизации, то у вас два варианта:
 
 - Создать пустой аккаунт TradingView и мониторить с него ваш основной график.
 - Включить кнопку автообновления, авторизация не потребуется. Автообновление необходимо, чтобы у вас не появлялось всплывающее окно с призывом к регистрации.
 
-#### Будет добавлено позднее:
+#### 🏀 Будет добавлено позднее:
 - Кастомные стили CSS
 - Горячие клавиши
 - Будильники
 - Световая индикация пробоя уровней
 
-### Техническая информация:
+### 🛠️ Техническая информация:
 
 Приложение написано на python 3.8 и собрано с помощью py2app. Вы можете проделать это самостоятельно.
 
@@ -56,7 +56,7 @@ python TradingViewMonitor.py
 
 <a name="en-desc"></a>
 ## English Description (AI Translated)
-### Features:
+### 🔸 Features:
 
 **Monitor charts while handling your tasks. In addition to market movement, all your chart markings are displayed.**
 
@@ -76,20 +76,20 @@ python TradingViewMonitor.py
     - Timeframe: (Timeframe you are monitoring)
 - Auto-Update Button: Updates the chart every minute. Required to bypass the pop-up window (if not authenticated).
 
-### Important:
+### ‼️ Important:
 
 Authentication in the monitor is only possible via email; other authentication methods do not work. If your primary account (which you are monitoring) was created using other authentication methods, you have two options:
  - Create an empty TradingView account and monitor your primary chart from there.
  - Enable the Auto-Update Button; authentication will not be required. Auto-update is necessary to prevent pop-up windows prompting you to register.
 
-#### To Be Added Later:
+#### 🏀 To Be Added Later:
 
 - Custom CSS Styles
 - Hotkeys
 - Alarms
 - Visual Level Breakthrough Indicators
 
-### Technical Information:
+### 🛠️ Technical Information:
 
 The application is written in Python 3.8 and built using py2app. You can do this yourself.
 
