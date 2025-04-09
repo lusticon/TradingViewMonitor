@@ -70,7 +70,7 @@ sudo xattr -r -c /Applications/TradingView\ Monitor.app
 
 ### 🛠️ Техническая информация:
 
-Приложение написано на python 3.8 и собрано с помощью py2app. Вы можете проделать это самостоятельно.
+Приложение написано на python 3.9 и собрано с помощью py2app. Вы можете проделать это самостоятельно.
 
 - Скачайте исходники с Git
   
@@ -143,7 +143,7 @@ sudo xattr -r -c /Applications/TradingView\ Monitor.app
 
 ### 🛠️ Technical Information:
 
-The application is written in Python 3.8 and built using py2app. You can do this yourself.
+The application is written in Python 3.9 and built using py2app. You can do this yourself.
 
 - Download the source code from GitHub
 - Ensure all dependencies are installed:
