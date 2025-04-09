@@ -7,9 +7,10 @@ TradingView Monitor
 </p>
 <br>
 
-🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions).  ⬇️[Download](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Read Description...](#en-desc)
+🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions) ℹ️[Read Description...](#en-desc)
 
-🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ⬇️[Скачать](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Описание функционала...](#ru-desc)
+🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ℹ️[Описание функционала...](#ru-desc)
+
 
 <br>
 <br>
@@ -37,6 +38,8 @@ TradingView Monitor
     - Таймфрейм (Таймфрейм за которым следите)
 - Кнопка автообновления. Обновляет график раз в минуту. Нужна для обхода появления всплывающего окна (если не авторизованы)
 
+<br>
+
 ### ‼️ Важно:
 
 В мониторе можно авторизоваться только через почту, другие виды авторизации не работают. Если ваш основной аккаунт за которым вы следите создан через другие средства авторизации, то у вас два варианта:
@@ -54,10 +57,25 @@ TradingView Monitor
 
 <hr>
 
+## 📥 Скачать:
+
+Последний релиз: ⬇️[TradingViewMonitor-v0.1 macos](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   
+
+⚠️ Если при запуске вы видите ошибку "Приложение повреждено, и его не удается открыть. Переместите приложение в Корзину", откройте терминал и введите: 
+
+```
+sudo xattr -r -c /Applications/TradingView\ Monitor.app 
+```
+
+
+<hr>
+
 ### 🛠️ Техническая информация:
 
 Приложение написано на python 3.8 и собрано с помощью py2app. Вы можете проделать это самостоятельно.
 
+- Скачайте исходники с Git
+  
 - Убедитесь, что установлены все зависимости:
 ```
 pip install pyobjc pyobjc-framework-Cocoa pyobjc-framework-WebKit
@@ -70,6 +88,7 @@ python setup.py py2app
 ```
 python TradingViewMonitor.py
 ```
+<br>
 <br>
 
 <a name="en-desc"></a>
@@ -113,10 +132,22 @@ Authentication in the monitor is only possible via email; other authentication m
 
 <hr>
 
+## 📥 Download:
+Last Release here: ⬇️[TradingViewMonitor-v0.1 macos](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   
+
+⚠️ If you see "App is damaged and can't be opened. You should move it to the Trash" error, open the terminal and enter: 
+
+```
+sudo xattr -r -c /Applications/TradingView\ Monitor.app 
+```
+
+<hr>
+
 ### 🛠️ Technical Information:
 
 The application is written in Python 3.8 and built using py2app. You can do this yourself.
 
+- Download the source code from GitHub
 - Ensure all dependencies are installed:
 ```
 pip install pyobjc pyobjc-framework-Cocoa pyobjc-framework-WebKit
