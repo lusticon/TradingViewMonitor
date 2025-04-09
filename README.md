@@ -7,9 +7,9 @@ TradingView Monitor
 </p>
 <br>
 
-🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions) ℹ️[Read Description...](#en-desc)
+🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions) ℹ️[[EN]Description...](#en-desc)
 
-🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ℹ️[Описание функционала...](#ru-desc)
+🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ℹ️[[RU]Описание...](#ru-desc)
 
 
 <br>
