@@ -37,6 +37,23 @@
 - Будильники
 - Световая индикация пробоя уровней
 
+### Техническая информация:
+
+Приложение написано на python 3.8 и собрано с помощью py2app. Вы можете проделать это самостоятельно.
+
+- Убедитесь, что установлены все зависимости:
+```
+pip install pyobjc pyobjc-framework-Cocoa pyobjc-framework-WebKit
+```
+- Соберите программу
+```
+python setup.py py2app
+```
+- Либо запустите скрипт
+```
+python TradingViewMonitor.py
+```
+
 <a name="en-desc"></a>
 ## English Description (AI Translated)
 ### Features:
@@ -71,3 +88,20 @@ Authentication in the monitor is only possible via email; other authentication m
 - Hotkeys
 - Alarms
 - Visual Level Breakthrough Indicators
+
+### Technical Information:
+
+The application is written in Python 3.8 and built using py2app. You can do this yourself.
+
+- Ensure all dependencies are installed:
+```
+pip install pyobjc pyobjc-framework-Cocoa pyobjc-framework-WebKit
+```
+- Build the program:
+```
+python setup.py py2app
+```
+- Or run the script:
+```
+python TradingViewMonitor.py
+```
