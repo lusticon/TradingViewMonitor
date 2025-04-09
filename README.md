@@ -42,7 +42,7 @@ TradingView Monitor
 
 Залогинившись под своим основным аккаунтом вы можете полноценно работать с TradingView, но для простого наблюдения это избыточно. В мониторе можно авторизоваться только через почту, другие виды авторизации не работают. Если ваш основной аккаунт за которым вы следите создан через другие средства авторизации, то у вас два варианта:
 
-- Создать пустой аккаунт TradingView и мониторить с него ваш основной график.
+- Создать пустой аккаунт TradingView, войти под ним в Мониторе и наблюдать с него ваш основной график.
 - Включить кнопку автообновления, авторизация не потребуется. Автообновление необходимо, чтобы у вас не появлялось всплывающее окно с призывом к регистрации.
 
 <hr>
@@ -116,7 +116,7 @@ python TradingViewMonitor.py
 ### ‼️ Important:
 
 Logging in with your primary account allows you to fully utilize TradingView, but it is excessive for simple monitoring. The monitor only supports email authentication; other methods are not available. If your primary account was created using another authentication method, you have two options:
- - Create an empty TradingView account and monitor your primary chart from there.
+ - Create an empty TradingView account, then login in Monitor app and view your primary chart from there.
  - Enable the Auto-Update Button; authentication will not be required. Auto-update is necessary to prevent pop-up windows prompting you to register.
 
 <hr>
