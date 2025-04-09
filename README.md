@@ -4,7 +4,13 @@
 
 🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ⬇️[Скачать](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Описание функционала...](#ru-desc)
 
+<br>
+<br>
+
 <a name="ru-desc"></a>
+## Описание на Русском
+<br>
+
 ### 🔸 Функционал:
 **Наблюдаем за графиками, занимаясь своими делами. Кроме движения рынка отображается вся ваша разметка графика.**
 
@@ -31,11 +37,15 @@
 - Создать пустой аккаунт TradingView и мониторить с него ваш основной график.
 - Включить кнопку автообновления, авторизация не потребуется. Автообновление необходимо, чтобы у вас не появлялось всплывающее окно с призывом к регистрации.
 
+<hr>
+
 #### 🏀 Будет добавлено позднее:
 - Кастомные стили CSS
 - Горячие клавиши
 - Будильники
 - Световая индикация пробоя уровней
+
+<hr>
 
 ### 🛠️ Техническая информация:
 
@@ -53,9 +63,12 @@ python setup.py py2app
 ```
 python TradingViewMonitor.py
 ```
+<br>
 
 <a name="en-desc"></a>
 ## English Description (AI Translated)
+<br>
+
 ### 🔸 Features:
 
 **Monitor charts while handling your tasks. In addition to market movement, all your chart markings are displayed.**
@@ -82,12 +95,16 @@ Authentication in the monitor is only possible via email; other authentication m
  - Create an empty TradingView account and monitor your primary chart from there.
  - Enable the Auto-Update Button; authentication will not be required. Auto-update is necessary to prevent pop-up windows prompting you to register.
 
+<hr>
+
 #### 🏀 To Be Added Later:
 
 - Custom CSS Styles
 - Hotkeys
 - Alarms
 - Visual Level Breakthrough Indicators
+
+<hr>
 
 ### 🛠️ Technical Information:
 
@@ -107,4 +124,9 @@ python TradingViewMonitor.py
 ```
 
 
-(c) Lusticon, 2025
+
+  
+  <br>
+  <br>
+  <br>
+  (c) Lusticon, 2025
