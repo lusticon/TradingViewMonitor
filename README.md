@@ -25,7 +25,7 @@ TradingView Monitor
 ![App Screenshot](https://i.ibb.co/zWrS3nvg/Untitled.gif)
 
 
-#### Функции панели управления окном (расположена снизу):
+#### 🔸 Функции панели управления окном (расположена снизу):
 
 - Кнопка выхода из программы
 - Кнопка «Закрепить/Открепить» окно поверх всех окон
@@ -100,7 +100,7 @@ python TradingViewMonitor.py
 ![App Screenshot](https://i.ibb.co/zWrS3nvg/Untitled.gif)
 
 
-#### Window Control Panel Functions (Located at the Bottom):
+#### 🔸 Window Control Panel Functions (Located at the Bottom):
 
 - Exit Button: Closes the program.
 - "Pin/Unpin" Button: Keeps the window on top of all other windows.
