@@ -105,3 +105,6 @@ python setup.py py2app
 ```
 python TradingViewMonitor.py
 ```
+
+
+(c) Lusticon, 2025
