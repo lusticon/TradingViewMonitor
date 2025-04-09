@@ -1,6 +1,13 @@
-# TradingView Monitor
+<p align="center">
+  <img width="120" height="120" src="https://i.ibb.co/0Rsx8WGM/Any-Conv-1-com-Group-2-512x512x32.png">
+</p>
 
-🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions). ⬇️[Download](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Read Description...](#en-desc)
+<p align="center">
+TradingView Monitor
+</p>
+<br>
+
+🇺🇸 A floating window for monitoring TradingView charts, which can be placed on top of all windows to keep track of the market. Version for MacOS Sequoia (not tested on other versions).  ⬇️[Download](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Read Description...](#en-desc)
 
 🇷🇺 Плавающее окно, для наблюдения за графиком TradingView, которое можно расположить поверх всех окон для наблюдения за рынком. Версия для MacOs Sequoia (на других версиях не тестировалось) ⬇️[Скачать](https://github.com/lusticon/TradingViewMonitor/releases/tag/alpha)   ℹ️[Описание функционала...](#ru-desc)
 
@@ -9,7 +16,7 @@
 
 <a name="ru-desc"></a>
 ## Описание на Русском
-<br>
+
 
 ### 🔸 Функционал:
 **Наблюдаем за графиками, занимаясь своими делами. Кроме движения рынка отображается вся ваша разметка графика.**
@@ -67,7 +74,7 @@ python TradingViewMonitor.py
 
 <a name="en-desc"></a>
 ## English Description (AI Translated)
-<br>
+
 
 ### 🔸 Features:
 
