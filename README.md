@@ -16,7 +16,7 @@ TradingView Monitor
 <br>
 
 <a name="ru-desc"></a>
-## Описание на Русском
+## 🇷🇺 Описание на Русском
 
 
 ### 🔸 Функционал:
@@ -90,7 +90,7 @@ python TradingViewMonitor.py
 <br>
 
 <a name="en-desc"></a>
-## English Description (AI Translated)
+## 🇺🇸 English Description (AI Translated)
 
 
 ### 🔸 Features:
