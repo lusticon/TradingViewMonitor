@@ -76,7 +76,7 @@ sudo xattr -r -c /Applications/TradingView\ Monitor.app
   
 - Убедитесь, что установлены все зависимости:
 ```
-pip install pyobjc pyobjc-core pyobjc-framework-Cocoa pyobjc-framework-WebKit
+pip install pyobjc pyobjc-core pyobjc-framework-Cocoa pyobjc-framework-WebKit py2app
 ```
 - Соберите программу
 ```
@@ -148,7 +148,7 @@ The application is written in Python 3.8 and built using py2app. You can do this
 - Download the source code from GitHub
 - Ensure all dependencies are installed:
 ```
-pip install pyobjc pyobjc-core pyobjc-framework-Cocoa pyobjc-framework-WebKit
+pip install pyobjc pyobjc-core pyobjc-framework-Cocoa pyobjc-framework-WebKit py2app
 ```
 - Build the program:
 ```
